@@ -1,0 +1,46 @@
+// Gruppenübung 3
+if(Handbremse gezogen && Gang eingelegt)
+{
+    while(Noch nicht alle Reifen gewechselt)
+    {
+        for(Rad = 1; Rad <= 4; Rad++)
+        {   
+            while(Noch nicht alle Schrauben angelöst)
+            {
+                Schrauben anlösen
+                if(Schraube zu schwergängig)
+                {
+                    Hebelverlängerrung nutzen
+                }
+            }
+
+            Auto hochbocken
+            while(Noch nicht alle Schrauben gelöst)
+            {
+                Löse schrauben
+                if(Schraube klemmt)
+                {
+                    Fester drücken
+                }
+            }
+
+            Rad abnehmen
+            Radnabe reinigen
+            Radanlagefläche reinigen
+            Neues Rad aufsetzen
+
+            while(Noch nicht alle Schrauben angezogen)
+            {
+                Ziehe schrauben an
+                if(Schraube klemmt)
+                {
+                    Fester drücken
+                }
+            }
+            Auto absetzen
+            Schrauben richtig fest machen
+        }
+
+    }
+}
+
